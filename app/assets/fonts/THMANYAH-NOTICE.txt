@@ -1,0 +1,3 @@
+Thmanyah Sans (ThmanyahSans-*.woff2): from the community package @dawod/thmanyah-font-web, by Thmanyah.
+Source: https://github.com/engdawood/thmanyah-font-web . Official license: https://font.thmanyah.com/licenses
+The package says the official license allows personal use only. Check it before redistributing this app.
